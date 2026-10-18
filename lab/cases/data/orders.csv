@@ -1,0 +1,2001 @@
+customer,item,qty
+Tim,box of eclairs,4
+Tim,baguette,4
+Tim,box of eclairs,2
+Frances,baguette,6
+Radia,eclair,1
+Grace,croissant,2
+Ken,box of eclairs,5
+Frances,baguette,6
+Ada,croissant,5
+Ada,baguette,1
+Frances,croissant,2
+Barbara,box of eclairs,4
+Margaret,baguette,5
+Alan,box of eclairs,6
+Grace,box of eclairs,1
+Alan,box of eclairs,6
+Grace,eclair,5
+Margaret,eclair,3
+Grace,croissant,1
+Grace,eclair,4
+Grace,croissant,4
+Ada,baguette,6
+Ada,box of eclairs,2
+Ken,box of eclairs,4
+Frances,baguette,1
+Alan,eclair,6
+Alan,eclair,1
+Ken,croissant,1
+Margaret,croissant,2
+Ada,box of eclairs,1
+Linus,baguette,4
+Tim,baguette,4
+Linus,box of eclairs,6
+Ken,croissant,6
+Ken,baguette,4
+Alan,eclair,1
+Margaret,baguette,1
+Frances,croissant,4
+Linus,baguette,1
+Alan,croissant,4
+Barbara,eclair,5
+Grace,croissant,4
+Margaret,baguette,1
+Frances,eclair,1
+Frances,box of eclairs,3
+Frances,box of eclairs,2
+Linus,box of eclairs,5
+Linus,eclair,2
+Frances,baguette,2
+Margaret,baguette,6
+Tim,baguette,6
+Ken,box of eclairs,6
+Grace,box of eclairs,5
+Grace,croissant,1
+Tim,eclair,1
+Ken,eclair,2
+Frances,box of eclairs,4
+Tim,baguette,3
+Grace,baguette,6
+Radia,croissant,2
+Margaret,baguette,3
+Ada,croissant,6
+Ken,box of eclairs,3
+Ada,croissant,2
+Alan,eclair,2
+Frances,baguette,5
+Barbara,baguette,1
+Barbara,baguette,4
+Ada,croissant,5
+Barbara,eclair,4
+Ada,croissant,1
+Grace,eclair,4
+Linus,croissant,3
+Radia,eclair,1
+Ada,baguette,6
+Barbara,croissant,3
+Radia,croissant,6
+Ada,box of eclairs,4
+Ada,box of eclairs,5
+Frances,croissant,4
+Grace,croissant,5
+Grace,eclair,1
+Barbara,box of eclairs,4
+Frances,box of eclairs,6
+Radia,croissant,4
+Tim,croissant,5
+Frances,croissant,3
+Ada,baguette,4
+Grace,box of eclairs,6
+Radia,eclair,5
+Barbara,eclair,1
+Frances,baguette,2
+Linus,eclair,5
+Radia,box of eclairs,6
+Barbara,box of eclairs,2
+Alan,baguette,6
+Ken,baguette,6
+Ken,baguette,2
+Barbara,baguette,5
+Linus,box of eclairs,2
+Ada,croissant,3
+Linus,croissant,3
+Radia,eclair,4
+Ken,box of eclairs,2
+Tim,box of eclairs,6
+Barbara,box of eclairs,6
+Grace,croissant,3
+Frances,croissant,3
+Alan,eclair,6
+Frances,croissant,3
+Linus,box of eclairs,6
+Margaret,croissant,4
+Margaret,baguette,3
+Grace,box of eclairs,1
+Tim,eclair,1
+Margaret,baguette,1
+Alan,baguette,4
+Ada,box of eclairs,6
+Ada,baguette,5
+Alan,eclair,2
+Tim,baguette,5
+Margaret,croissant,4
+Ken,baguette,4
+Radia,baguette,4
+Ada,box of eclairs,6
+Frances,eclair,5
+Barbara,baguette,4
+Grace,baguette,1
+Ken,croissant,2
+Tim,eclair,3
+Ada,eclair,3
+Grace,croissant,5
+Barbara,box of eclairs,4
+Radia,croissant,3
+Grace,box of eclairs,2
+Linus,eclair,1
+Linus,box of eclairs,6
+Tim,box of eclairs,2
+Frances,croissant,4
+Radia,eclair,2
+Tim,baguette,6
+Tim,eclair,5
+Ken,baguette,3
+Linus,eclair,3
+Radia,baguette,5
+Tim,croissant,4
+Ada,box of eclairs,5
+Tim,croissant,1
+Ken,croissant,5
+Grace,baguette,4
+Tim,box of eclairs,1
+Ken,eclair,4
+Radia,box of eclairs,2
+Barbara,box of eclairs,2
+Tim,eclair,4
+Margaret,box of eclairs,1
+Ada,eclair,5
+Ada,croissant,2
+Linus,baguette,2
+Alan,eclair,1
+Barbara,baguette,6
+Radia,croissant,5
+Frances,croissant,4
+Frances,eclair,5
+Margaret,box of eclairs,6
+Ken,box of eclairs,1
+Frances,baguette,5
+Margaret,baguette,5
+Margaret,baguette,5
+Barbara,baguette,2
+Frances,eclair,3
+Margaret,baguette,2
+Linus,baguette,1
+Grace,eclair,2
+Grace,box of eclairs,4
+Tim,baguette,4
+Ken,croissant,2
+Margaret,eclair,1
+Grace,eclair,3
+Margaret,croissant,5
+Grace,croissant,4
+Tim,box of eclairs,1
+Margaret,baguette,2
+Margaret,baguette,1
+Alan,croissant,2
+Ada,baguette,5
+Radia,croissant,6
+Barbara,box of eclairs,1
+Ken,eclair,4
+Margaret,eclair,4
+Ada,baguette,1
+Ken,box of eclairs,2
+Barbara,box of eclairs,3
+Frances,baguette,2
+Tim,croissant,1
+Grace,box of eclairs,3
+Frances,baguette,5
+Frances,eclair,5
+Alan,croissant,3
+Linus,box of eclairs,6
+Barbara,eclair,2
+Linus,box of eclairs,4
+Linus,croissant,2
+Alan,box of eclairs,3
+Ada,eclair,1
+Frances,croissant,6
+Alan,eclair,2
+Margaret,box of eclairs,3
+Linus,croissant,5
+Tim,box of eclairs,4
+Margaret,croissant,6
+Frances,croissant,4
+Frances,croissant,1
+Margaret,eclair,6
+Ken,croissant,4
+Ken,croissant,2
+Alan,eclair,1
+Barbara,box of eclairs,3
+Frances,croissant,5
+Radia,croissant,6
+Frances,croissant,5
+Linus,box of eclairs,4
+Linus,box of eclairs,4
+Frances,croissant,5
+Radia,box of eclairs,4
+Tim,box of eclairs,3
+Alan,eclair,5
+Alan,box of eclairs,5
+Alan,eclair,6
+Alan,croissant,6
+Margaret,croissant,1
+Linus,box of eclairs,6
+Ken,croissant,6
+Ken,croissant,3
+Barbara,croissant,5
+Ken,box of eclairs,2
+Margaret,croissant,3
+Grace,box of eclairs,5
+Margaret,croissant,2
+Frances,box of eclairs,1
+Grace,baguette,4
+Barbara,baguette,1
+Barbara,box of eclairs,1
+Ken,box of eclairs,2
+Alan,box of eclairs,5
+Tim,baguette,3
+Linus,baguette,3
+Grace,eclair,4
+Frances,eclair,5
+Alan,baguette,3
+Alan,baguette,6
+Margaret,baguette,2
+Ada,croissant,6
+Alan,eclair,1
+Ada,croissant,4
+Margaret,eclair,1
+Grace,baguette,1
+Margaret,eclair,5
+Radia,eclair,4
+Barbara,eclair,2
+Linus,croissant,4
+Radia,baguette,1
+Ken,eclair,4
+Linus,eclair,4
+Frances,eclair,2
+Tim,baguette,3
+Barbara,croissant,4
+Barbara,croissant,4
+Grace,box of eclairs,5
+Frances,box of eclairs,5
+Radia,eclair,6
+Grace,eclair,1
+Frances,croissant,2
+Alan,box of eclairs,6
+Barbara,eclair,6
+Margaret,eclair,2
+Barbara,eclair,6
+Barbara,box of eclairs,1
+Frances,eclair,5
+Tim,eclair,4
+Barbara,baguette,4
+Tim,baguette,4
+Barbara,eclair,1
+Barbara,box of eclairs,1
+Ken,baguette,5
+Frances,eclair,6
+Tim,baguette,4
+Frances,baguette,5
+Grace,box of eclairs,2
+Ada,baguette,3
+Ada,baguette,5
+Alan,croissant,5
+Ken,croissant,6
+Tim,eclair,5
+Grace,eclair,5
+Alan,croissant,1
+Grace,croissant,3
+Linus,croissant,6
+Ken,baguette,6
+Margaret,box of eclairs,6
+Barbara,box of eclairs,5
+Barbara,eclair,4
+Linus,box of eclairs,3
+Tim,croissant,4
+Frances,croissant,6
+Barbara,croissant,4
+Grace,box of eclairs,4
+Ada,eclair,5
+Ada,croissant,6
+Ken,baguette,4
+Linus,box of eclairs,2
+Linus,eclair,6
+Ken,box of eclairs,2
+Alan,eclair,5
+Radia,eclair,1
+Grace,eclair,6
+Linus,baguette,6
+Radia,croissant,1
+Radia,croissant,5
+Grace,baguette,3
+Barbara,baguette,2
+Margaret,box of eclairs,5
+Tim,baguette,5
+Linus,eclair,4
+Linus,eclair,4
+Tim,box of eclairs,6
+Radia,box of eclairs,3
+Tim,croissant,3
+Margaret,box of eclairs,4
+Margaret,baguette,1
+Tim,eclair,4
+Margaret,croissant,1
+Barbara,box of eclairs,4
+Ken,baguette,2
+Linus,eclair,4
+Alan,baguette,2
+Frances,eclair,6
+Tim,croissant,5
+Frances,baguette,2
+Margaret,baguette,1
+Grace,eclair,2
+Frances,croissant,3
+Radia,croissant,4
+Frances,eclair,6
+Margaret,box of eclairs,1
+Grace,box of eclairs,2
+Ada,box of eclairs,2
+Radia,baguette,5
+Barbara,eclair,3
+Grace,eclair,4
+Grace,eclair,4
+Linus,croissant,1
+Ken,box of eclairs,6
+Grace,box of eclairs,6
+Ken,box of eclairs,1
+Alan,croissant,2
+Ada,baguette,4
+Linus,eclair,5
+Ken,eclair,6
+Ken,croissant,3
+Margaret,baguette,3
+Grace,eclair,4
+Alan,box of eclairs,3
+Barbara,box of eclairs,6
+Grace,croissant,4
+Frances,croissant,2
+Linus,baguette,2
+Ken,croissant,2
+Frances,croissant,4
+Margaret,croissant,1
+Grace,box of eclairs,2
+Grace,eclair,4
+Tim,baguette,4
+Margaret,baguette,6
+Ken,box of eclairs,6
+Ken,croissant,3
+Ken,eclair,6
+Frances,croissant,2
+Barbara,baguette,3
+Alan,box of eclairs,3
+Tim,box of eclairs,1
+Tim,eclair,2
+Grace,baguette,3
+Tim,eclair,3
+Margaret,eclair,5
+Tim,baguette,5
+Margaret,baguette,5
+Ada,baguette,5
+Linus,baguette,1
+Frances,box of eclairs,4
+Barbara,eclair,6
+Barbara,eclair,1
+Grace,box of eclairs,4
+Linus,baguette,6
+Tim,croissant,5
+Alan,baguette,5
+Barbara,baguette,6
+Ada,eclair,1
+Barbara,baguette,6
+Barbara,baguette,5
+Frances,croissant,2
+Ada,box of eclairs,4
+Linus,eclair,2
+Ken,croissant,6
+Margaret,box of eclairs,2
+Ada,baguette,4
+Ken,croissant,5
+Ken,baguette,5
+Tim,baguette,3
+Margaret,eclair,3
+Ada,baguette,1
+Radia,croissant,4
+Barbara,box of eclairs,4
+Frances,box of eclairs,5
+Radia,box of eclairs,3
+Ken,box of eclairs,6
+Frances,croissant,1
+Barbara,box of eclairs,5
+Ada,eclair,4
+Alan,box of eclairs,1
+Ken,eclair,6
+Frances,croissant,3
+Grace,box of eclairs,2
+Tim,box of eclairs,2
+Radia,croissant,1
+Margaret,eclair,5
+Ken,baguette,6
+Barbara,box of eclairs,1
+Linus,baguette,5
+Ken,croissant,6
+Grace,baguette,1
+Tim,box of eclairs,1
+Alan,baguette,1
+Alan,croissant,6
+Linus,croissant,3
+Radia,box of eclairs,4
+Barbara,baguette,2
+Alan,croissant,1
+Barbara,eclair,4
+Radia,baguette,3
+Margaret,baguette,4
+Ada,baguette,3
+Barbara,box of eclairs,3
+Linus,baguette,1
+Margaret,baguette,5
+Grace,eclair,1
+Barbara,eclair,6
+Linus,eclair,4
+Radia,box of eclairs,6
+Linus,baguette,1
+Grace,baguette,3
+Linus,baguette,3
+Alan,eclair,5
+Tim,croissant,3
+Tim,baguette,5
+Linus,baguette,3
+Linus,croissant,3
+Grace,box of eclairs,4
+Grace,croissant,5
+Frances,eclair,1
+Alan,box of eclairs,5
+Grace,baguette,5
+Margaret,baguette,3
+Alan,croissant,2
+Linus,croissant,2
+Radia,box of eclairs,5
+Radia,croissant,1
+Grace,eclair,2
+Radia,croissant,3
+Alan,baguette,5
+Linus,croissant,5
+Ken,baguette,5
+Radia,eclair,6
+Margaret,eclair,6
+Tim,baguette,4
+Frances,box of eclairs,5
+Ada,baguette,3
+Ada,box of eclairs,5
+Barbara,baguette,2
+Ada,box of eclairs,5
+Tim,box of eclairs,4
+Alan,croissant,6
+Grace,baguette,1
+Tim,baguette,5
+Linus,croissant,5
+Ken,croissant,3
+Barbara,eclair,6
+Radia,croissant,5
+Tim,baguette,6
+Alan,baguette,4
+Radia,box of eclairs,2
+Barbara,box of eclairs,1
+Barbara,baguette,4
+Ada,baguette,6
+Frances,baguette,4
+Radia,croissant,2
+Margaret,box of eclairs,1
+Linus,croissant,5
+Tim,eclair,4
+Ken,croissant,4
+Frances,baguette,1
+Alan,croissant,3
+Margaret,box of eclairs,5
+Grace,baguette,4
+Alan,eclair,3
+Margaret,croissant,5
+Ken,croissant,2
+Barbara,baguette,6
+Ken,baguette,4
+Ken,croissant,4
+Ken,eclair,2
+Linus,baguette,2
+Margaret,box of eclairs,4
+Frances,box of eclairs,2
+Radia,box of eclairs,3
+Linus,box of eclairs,4
+Tim,box of eclairs,2
+Grace,croissant,4
+Alan,eclair,6
+Frances,croissant,3
+Linus,eclair,5
+Ken,baguette,5
+Grace,eclair,3
+Linus,eclair,1
+Margaret,croissant,2
+Barbara,box of eclairs,1
+Grace,box of eclairs,4
+Alan,croissant,3
+Ken,baguette,3
+Ada,baguette,4
+Tim,baguette,2
+Margaret,eclair,1
+Ken,box of eclairs,4
+Linus,eclair,5
+Radia,box of eclairs,3
+Margaret,eclair,2
+Radia,box of eclairs,5
+Ken,eclair,2
+Grace,eclair,2
+Barbara,baguette,3
+Ada,croissant,2
+Radia,croissant,6
+Alan,croissant,6
+Tim,eclair,2
+Grace,eclair,6
+Alan,croissant,2
+Grace,box of eclairs,4
+Ada,box of eclairs,4
+Barbara,eclair,4
+Alan,baguette,4
+Ken,baguette,2
+Linus,eclair,4
+Margaret,croissant,6
+Barbara,box of eclairs,6
+Radia,eclair,2
+Tim,eclair,6
+Ada,box of eclairs,6
+Barbara,croissant,1
+Alan,croissant,4
+Radia,eclair,4
+Barbara,eclair,4
+Ada,croissant,1
+Barbara,eclair,3
+Alan,eclair,5
+Linus,box of eclairs,6
+Frances,eclair,4
+Ada,baguette,3
+Ada,box of eclairs,1
+Ken,croissant,5
+Grace,box of eclairs,3
+Ken,box of eclairs,4
+Linus,eclair,1
+Radia,eclair,3
+Ada,baguette,4
+Margaret,eclair,5
+Alan,baguette,2
+Tim,croissant,2
+Ken,croissant,5
+Tim,box of eclairs,2
+Tim,croissant,6
+Tim,eclair,5
+Barbara,croissant,3
+Barbara,baguette,1
+Ken,baguette,6
+Linus,baguette,2
+Frances,box of eclairs,3
+Alan,eclair,5
+Alan,eclair,4
+Tim,box of eclairs,6
+Margaret,eclair,2
+Linus,baguette,3
+Grace,croissant,1
+Alan,croissant,6
+Tim,box of eclairs,4
+Linus,box of eclairs,1
+Ada,eclair,4
+Ken,box of eclairs,3
+Alan,eclair,3
+Barbara,baguette,6
+Margaret,baguette,3
+Ken,baguette,5
+Alan,baguette,5
+Margaret,box of eclairs,2
+Alan,baguette,5
+Linus,croissant,6
+Frances,baguette,4
+Alan,box of eclairs,3
+Ken,box of eclairs,3
+Linus,croissant,6
+Grace,croissant,2
+Alan,eclair,2
+Tim,croissant,6
+Barbara,croissant,4
+Radia,baguette,5
+Grace,eclair,3
+Alan,baguette,4
+Frances,box of eclairs,4
+Frances,box of eclairs,2
+Margaret,eclair,6
+Radia,baguette,2
+Tim,eclair,1
+Ken,croissant,4
+Barbara,croissant,2
+Frances,baguette,3
+Ken,eclair,3
+Margaret,croissant,3
+Margaret,eclair,4
+Alan,croissant,5
+Grace,croissant,2
+Grace,croissant,3
+Barbara,box of eclairs,2
+Margaret,box of eclairs,2
+Ada,box of eclairs,4
+Tim,box of eclairs,3
+Ada,baguette,5
+Frances,eclair,5
+Margaret,eclair,3
+Radia,croissant,2
+Ada,baguette,2
+Grace,croissant,5
+Barbara,croissant,3
+Alan,croissant,5
+Radia,croissant,5
+Grace,eclair,2
+Tim,eclair,1
+Radia,box of eclairs,2
+Tim,croissant,3
+Ken,box of eclairs,4
+Frances,croissant,3
+Frances,baguette,1
+Barbara,box of eclairs,2
+Barbara,eclair,6
+Radia,eclair,3
+Alan,croissant,3
+Barbara,croissant,6
+Barbara,baguette,3
+Linus,baguette,6
+Linus,eclair,1
+Margaret,baguette,6
+Grace,baguette,3
+Barbara,eclair,2
+Ken,croissant,2
+Ken,croissant,1
+Grace,eclair,4
+Margaret,croissant,5
+Barbara,croissant,2
+Grace,eclair,5
+Radia,baguette,4
+Ken,baguette,4
+Grace,box of eclairs,3
+Linus,eclair,3
+Ada,baguette,5
+Ken,croissant,6
+Frances,eclair,2
+Ken,croissant,4
+Radia,box of eclairs,1
+Radia,box of eclairs,6
+Tim,baguette,4
+Frances,croissant,4
+Ada,box of eclairs,5
+Alan,croissant,4
+Ada,eclair,5
+Tim,box of eclairs,2
+Alan,eclair,3
+Radia,box of eclairs,2
+Linus,box of eclairs,1
+Margaret,baguette,1
+Linus,croissant,6
+Tim,eclair,1
+Grace,baguette,3
+Barbara,eclair,1
+Barbara,box of eclairs,5
+Tim,croissant,2
+Margaret,box of eclairs,4
+Margaret,croissant,3
+Tim,box of eclairs,1
+Margaret,croissant,4
+Ada,croissant,4
+Barbara,baguette,2
+Barbara,croissant,1
+Margaret,eclair,3
+Ken,baguette,1
+Ken,croissant,5
+Frances,box of eclairs,6
+Grace,croissant,4
+Margaret,eclair,6
+Margaret,box of eclairs,6
+Ada,eclair,4
+Barbara,eclair,6
+Frances,baguette,6
+Margaret,baguette,6
+Linus,box of eclairs,2
+Linus,eclair,1
+Alan,eclair,1
+Frances,eclair,5
+Margaret,croissant,3
+Margaret,eclair,1
+Ken,baguette,3
+Grace,eclair,2
+Barbara,box of eclairs,4
+Radia,baguette,3
+Grace,croissant,5
+Tim,box of eclairs,3
+Radia,croissant,2
+Grace,eclair,3
+Radia,baguette,1
+Ken,baguette,4
+Ken,baguette,6
+Grace,eclair,4
+Barbara,eclair,4
+Radia,eclair,5
+Ada,baguette,3
+Ken,eclair,1
+Frances,eclair,2
+Ken,eclair,4
+Grace,croissant,3
+Grace,box of eclairs,5
+Grace,eclair,2
+Barbara,croissant,1
+Frances,eclair,6
+Linus,box of eclairs,1
+Barbara,baguette,1
+Tim,eclair,4
+Frances,croissant,4
+Ada,box of eclairs,2
+Margaret,croissant,4
+Grace,box of eclairs,1
+Ken,baguette,6
+Frances,baguette,5
+Barbara,baguette,4
+Ken,croissant,5
+Grace,croissant,6
+Frances,eclair,2
+Radia,croissant,6
+Radia,baguette,4
+Barbara,eclair,1
+Grace,eclair,1
+Tim,croissant,4
+Alan,croissant,1
+Frances,baguette,1
+Grace,eclair,2
+Barbara,baguette,3
+Frances,box of eclairs,2
+Ada,baguette,4
+Radia,baguette,5
+Grace,box of eclairs,5
+Grace,baguette,2
+Frances,baguette,2
+Frances,croissant,4
+Ada,baguette,4
+Grace,box of eclairs,2
+Alan,croissant,2
+Grace,box of eclairs,4
+Tim,croissant,3
+Ken,eclair,4
+Margaret,eclair,1
+Grace,box of eclairs,5
+Radia,baguette,3
+Tim,baguette,6
+Tim,croissant,5
+Alan,eclair,4
+Frances,eclair,6
+Barbara,croissant,2
+Radia,box of eclairs,4
+Ken,eclair,3
+Grace,croissant,4
+Tim,croissant,3
+Tim,box of eclairs,2
+Barbara,box of eclairs,5
+Grace,eclair,2
+Barbara,eclair,1
+Margaret,box of eclairs,4
+Ada,eclair,6
+Frances,croissant,4
+Frances,eclair,1
+Barbara,eclair,2
+Margaret,croissant,3
+Linus,box of eclairs,3
+Tim,eclair,1
+Grace,baguette,1
+Frances,eclair,3
+Barbara,box of eclairs,4
+Alan,croissant,1
+Ken,baguette,1
+Barbara,croissant,3
+Linus,baguette,3
+Alan,croissant,3
+Ada,box of eclairs,4
+Grace,baguette,5
+Ada,baguette,3
+Tim,croissant,5
+Radia,box of eclairs,6
+Grace,baguette,3
+Radia,baguette,1
+Radia,box of eclairs,4
+Radia,eclair,1
+Grace,croissant,6
+Tim,croissant,3
+Grace,box of eclairs,6
+Tim,croissant,3
+Grace,box of eclairs,2
+Tim,baguette,3
+Linus,eclair,1
+Ken,croissant,4
+Ken,baguette,4
+Radia,box of eclairs,6
+Ken,box of eclairs,4
+Tim,baguette,1
+Barbara,baguette,5
+Barbara,baguette,1
+Barbara,box of eclairs,6
+Tim,box of eclairs,5
+Frances,box of eclairs,4
+Frances,baguette,3
+Ken,eclair,4
+Radia,baguette,1
+Alan,eclair,6
+Ken,croissant,6
+Grace,eclair,3
+Margaret,baguette,4
+Frances,croissant,4
+Linus,box of eclairs,5
+Radia,box of eclairs,5
+Grace,baguette,4
+Frances,croissant,2
+Alan,baguette,6
+Barbara,baguette,1
+Radia,eclair,5
+Linus,box of eclairs,4
+Alan,croissant,3
+Linus,baguette,2
+Tim,eclair,2
+Linus,baguette,1
+Linus,eclair,5
+Barbara,eclair,6
+Alan,eclair,1
+Margaret,eclair,1
+Linus,eclair,1
+Alan,eclair,6
+Tim,baguette,3
+Radia,croissant,3
+Ada,eclair,3
+Tim,baguette,3
+Linus,baguette,4
+Grace,baguette,5
+Frances,eclair,5
+Ada,box of eclairs,3
+Tim,baguette,3
+Radia,eclair,4
+Margaret,eclair,3
+Barbara,baguette,5
+Tim,croissant,1
+Grace,eclair,5
+Grace,croissant,1
+Barbara,eclair,2
+Linus,croissant,3
+Grace,baguette,6
+Ken,baguette,1
+Tim,croissant,6
+Tim,baguette,4
+Tim,eclair,1
+Radia,baguette,5
+Grace,box of eclairs,6
+Radia,baguette,2
+Radia,croissant,1
+Tim,croissant,5
+Alan,eclair,2
+Margaret,eclair,3
+Tim,baguette,2
+Ada,box of eclairs,4
+Frances,eclair,5
+Grace,baguette,2
+Grace,croissant,1
+Alan,croissant,3
+Ada,baguette,4
+Frances,croissant,2
+Barbara,croissant,1
+Ken,baguette,2
+Barbara,eclair,4
+Barbara,box of eclairs,2
+Margaret,eclair,1
+Frances,eclair,1
+Barbara,eclair,5
+Margaret,box of eclairs,4
+Margaret,baguette,2
+Alan,box of eclairs,2
+Margaret,eclair,4
+Margaret,eclair,2
+Tim,eclair,5
+Ada,baguette,5
+Margaret,croissant,3
+Tim,eclair,3
+Margaret,croissant,6
+Tim,croissant,2
+Tim,baguette,1
+Margaret,croissant,4
+Tim,baguette,4
+Barbara,croissant,3
+Ken,baguette,1
+Margaret,eclair,4
+Ken,eclair,2
+Frances,croissant,5
+Ada,croissant,4
+Ada,box of eclairs,4
+Ken,baguette,1
+Grace,baguette,2
+Radia,baguette,2
+Barbara,baguette,3
+Linus,eclair,2
+Margaret,baguette,1
+Margaret,box of eclairs,2
+Barbara,croissant,3
+Linus,croissant,3
+Barbara,croissant,2
+Alan,eclair,1
+Frances,croissant,2
+Tim,box of eclairs,3
+Alan,croissant,5
+Margaret,croissant,1
+Alan,baguette,1
+Barbara,croissant,2
+Radia,box of eclairs,3
+Frances,box of eclairs,3
+Ada,baguette,4
+Radia,croissant,2
+Frances,box of eclairs,4
+Ada,eclair,5
+Ada,baguette,2
+Margaret,croissant,4
+Margaret,box of eclairs,1
+Frances,croissant,4
+Ada,baguette,4
+Ada,baguette,3
+Ada,eclair,3
+Frances,eclair,3
+Radia,eclair,6
+Barbara,baguette,5
+Linus,box of eclairs,3
+Tim,box of eclairs,4
+Barbara,box of eclairs,3
+Frances,baguette,2
+Tim,eclair,4
+Barbara,baguette,2
+Frances,box of eclairs,5
+Barbara,eclair,2
+Grace,croissant,6
+Radia,croissant,3
+Tim,box of eclairs,4
+Ada,box of eclairs,6
+Alan,box of eclairs,4
+Frances,box of eclairs,5
+Grace,eclair,1
+Radia,croissant,4
+Linus,croissant,6
+Tim,box of eclairs,3
+Grace,eclair,1
+Margaret,box of eclairs,1
+Alan,baguette,1
+Tim,croissant,6
+Barbara,croissant,4
+Radia,box of eclairs,1
+Alan,eclair,2
+Tim,eclair,6
+Margaret,box of eclairs,2
+Linus,baguette,3
+Alan,eclair,6
+Grace,box of eclairs,2
+Margaret,croissant,3
+Tim,eclair,1
+Frances,box of eclairs,4
+Grace,baguette,6
+Alan,eclair,1
+Alan,eclair,4
+Frances,eclair,2
+Frances,baguette,6
+Ada,box of eclairs,6
+Ken,croissant,4
+Alan,box of eclairs,5
+Radia,baguette,6
+Barbara,croissant,4
+Linus,box of eclairs,1
+Margaret,croissant,2
+Linus,box of eclairs,6
+Radia,eclair,3
+Linus,croissant,6
+Alan,croissant,6
+Barbara,croissant,3
+Alan,eclair,1
+Ada,eclair,4
+Alan,baguette,1
+Radia,croissant,5
+Grace,croissant,1
+Tim,baguette,4
+Margaret,eclair,3
+Ken,eclair,2
+Grace,eclair,4
+Barbara,eclair,1
+Tim,box of eclairs,5
+Ken,baguette,2
+Grace,croissant,4
+Ken,box of eclairs,4
+Ken,eclair,6
+Tim,box of eclairs,5
+Tim,croissant,1
+Linus,croissant,2
+Linus,baguette,5
+Alan,eclair,5
+Ada,croissant,3
+Ada,box of eclairs,4
+Radia,baguette,1
+Ada,croissant,3
+Alan,box of eclairs,1
+Frances,box of eclairs,6
+Ken,box of eclairs,2
+Margaret,box of eclairs,5
+Margaret,box of eclairs,6
+Grace,baguette,1
+Ada,box of eclairs,2
+Ada,box of eclairs,4
+Ken,box of eclairs,1
+Grace,baguette,5
+Radia,eclair,2
+Grace,eclair,6
+Ada,baguette,3
+Tim,box of eclairs,6
+Ken,baguette,6
+Ada,croissant,3
+Alan,box of eclairs,6
+Barbara,box of eclairs,2
+Radia,box of eclairs,2
+Margaret,croissant,3
+Alan,croissant,4
+Radia,box of eclairs,4
+Ken,box of eclairs,6
+Grace,baguette,6
+Margaret,box of eclairs,3
+Margaret,eclair,4
+Frances,croissant,2
+Frances,eclair,5
+Ken,croissant,5
+Barbara,box of eclairs,4
+Grace,box of eclairs,3
+Ken,eclair,2
+Ken,croissant,2
+Frances,croissant,4
+Ken,croissant,2
+Barbara,eclair,5
+Radia,eclair,5
+Tim,box of eclairs,3
+Linus,croissant,5
+Frances,eclair,2
+Tim,croissant,6
+Frances,eclair,3
+Radia,eclair,5
+Radia,box of eclairs,2
+Ken,baguette,3
+Frances,croissant,1
+Radia,box of eclairs,4
+Ada,eclair,5
+Ken,croissant,3
+Ada,eclair,1
+Linus,eclair,5
+Ken,eclair,2
+Barbara,croissant,2
+Barbara,box of eclairs,5
+Ken,baguette,6
+Frances,baguette,3
+Linus,croissant,2
+Grace,croissant,1
+Margaret,eclair,6
+Radia,croissant,1
+Frances,croissant,6
+Alan,eclair,6
+Frances,eclair,2
+Barbara,eclair,6
+Radia,eclair,2
+Radia,eclair,1
+Tim,eclair,5
+Tim,baguette,2
+Frances,eclair,5
+Barbara,box of eclairs,2
+Linus,baguette,4
+Linus,box of eclairs,5
+Frances,eclair,3
+Barbara,baguette,2
+Barbara,croissant,4
+Radia,croissant,2
+Grace,croissant,6
+Barbara,croissant,1
+Barbara,box of eclairs,5
+Tim,box of eclairs,5
+Grace,box of eclairs,1
+Frances,baguette,1
+Alan,croissant,5
+Linus,eclair,6
+Radia,eclair,1
+Tim,croissant,2
+Margaret,eclair,3
+Margaret,eclair,1
+Alan,croissant,3
+Barbara,eclair,1
+Frances,baguette,4
+Linus,croissant,3
+Grace,box of eclairs,2
+Tim,baguette,6
+Tim,box of eclairs,3
+Tim,baguette,6
+Ken,eclair,4
+Alan,box of eclairs,5
+Tim,baguette,4
+Ada,eclair,3
+Ken,croissant,3
+Ada,box of eclairs,6
+Tim,baguette,3
+Tim,box of eclairs,3
+Barbara,box of eclairs,6
+Ken,baguette,1
+Margaret,croissant,5
+Margaret,eclair,1
+Ken,eclair,5
+Alan,eclair,1
+Tim,croissant,1
+Linus,box of eclairs,1
+Grace,box of eclairs,6
+Ken,croissant,5
+Linus,croissant,5
+Margaret,box of eclairs,4
+Radia,eclair,2
+Frances,croissant,5
+Margaret,baguette,1
+Grace,baguette,5
+Barbara,baguette,3
+Tim,croissant,5
+Linus,eclair,6
+Margaret,baguette,2
+Barbara,croissant,1
+Linus,baguette,6
+Ada,baguette,6
+Barbara,eclair,4
+Linus,eclair,6
+Grace,croissant,6
+Ada,eclair,6
+Alan,box of eclairs,4
+Linus,box of eclairs,6
+Ada,baguette,4
+Alan,eclair,5
+Grace,croissant,2
+Linus,baguette,3
+Alan,croissant,4
+Ken,eclair,6
+Ada,croissant,4
+Radia,box of eclairs,4
+Tim,eclair,1
+Grace,croissant,1
+Frances,eclair,3
+Barbara,box of eclairs,5
+Frances,baguette,2
+Tim,croissant,2
+Frances,baguette,4
+Margaret,box of eclairs,4
+Ada,croissant,6
+Ada,baguette,5
+Ken,box of eclairs,2
+Ken,box of eclairs,2
+Linus,eclair,6
+Ada,eclair,6
+Linus,eclair,1
+Frances,croissant,2
+Margaret,box of eclairs,1
+Grace,croissant,2
+Barbara,croissant,2
+Grace,baguette,5
+Linus,baguette,3
+Grace,box of eclairs,4
+Grace,baguette,2
+Linus,box of eclairs,1
+Linus,box of eclairs,4
+Tim,croissant,5
+Ada,box of eclairs,4
+Ada,croissant,3
+Barbara,croissant,2
+Frances,box of eclairs,4
+Tim,eclair,3
+Linus,baguette,6
+Barbara,croissant,4
+Ada,eclair,6
+Alan,eclair,3
+Grace,baguette,2
+Ken,eclair,6
+Grace,croissant,3
+Ken,eclair,6
+Frances,eclair,5
+Radia,eclair,2
+Linus,eclair,5
+Radia,croissant,4
+Ada,box of eclairs,2
+Frances,eclair,6
+Barbara,box of eclairs,2
+Alan,box of eclairs,2
+Ada,eclair,6
+Barbara,baguette,2
+Alan,baguette,5
+Tim,eclair,4
+Ada,croissant,6
+Ada,eclair,1
+Alan,box of eclairs,6
+Ada,croissant,5
+Margaret,box of eclairs,4
+Radia,box of eclairs,2
+Ken,eclair,6
+Tim,box of eclairs,3
+Barbara,box of eclairs,2
+Frances,baguette,5
+Margaret,baguette,6
+Frances,baguette,5
+Ada,box of eclairs,6
+Linus,baguette,4
+Barbara,croissant,5
+Grace,croissant,3
+Radia,eclair,2
+Alan,box of eclairs,6
+Grace,croissant,3
+Ada,box of eclairs,6
+Grace,croissant,2
+Linus,croissant,5
+Tim,eclair,2
+Grace,eclair,2
+Barbara,eclair,1
+Tim,baguette,4
+Tim,eclair,1
+Radia,eclair,3
+Ken,box of eclairs,6
+Ada,box of eclairs,2
+Alan,box of eclairs,4
+Tim,baguette,5
+Alan,croissant,5
+Linus,eclair,5
+Barbara,croissant,5
+Alan,croissant,6
+Frances,box of eclairs,4
+Ken,box of eclairs,3
+Radia,eclair,4
+Grace,croissant,1
+Ken,croissant,6
+Linus,box of eclairs,6
+Frances,box of eclairs,2
+Frances,baguette,1
+Radia,eclair,2
+Barbara,box of eclairs,3
+Ada,croissant,2
+Radia,baguette,2
+Linus,baguette,2
+Grace,baguette,1
+Barbara,box of eclairs,2
+Frances,croissant,2
+Ada,eclair,3
+Linus,box of eclairs,6
+Grace,croissant,1
+Barbara,box of eclairs,6
+Margaret,croissant,4
+Linus,box of eclairs,5
+Alan,eclair,4
+Margaret,croissant,4
+Linus,box of eclairs,4
+Linus,eclair,5
+Ken,croissant,1
+Margaret,baguette,5
+Tim,eclair,5
+Linus,eclair,2
+Frances,eclair,2
+Barbara,box of eclairs,2
+Margaret,box of eclairs,6
+Grace,croissant,1
+Linus,baguette,2
+Radia,box of eclairs,4
+Margaret,eclair,3
+Linus,baguette,1
+Frances,baguette,5
+Grace,box of eclairs,2
+Margaret,eclair,4
+Barbara,croissant,4
+Alan,eclair,6
+Barbara,eclair,4
+Linus,eclair,6
+Ada,eclair,4
+Barbara,croissant,4
+Alan,box of eclairs,2
+Grace,baguette,6
+Tim,croissant,6
+Alan,box of eclairs,5
+Grace,croissant,2
+Radia,baguette,3
+Ken,eclair,3
+Radia,croissant,3
+Frances,eclair,2
+Margaret,croissant,4
+Ken,croissant,1
+Frances,croissant,1
+Radia,box of eclairs,2
+Radia,eclair,5
+Ada,box of eclairs,3
+Barbara,eclair,4
+Barbara,croissant,2
+Barbara,croissant,2
+Tim,croissant,2
+Grace,baguette,5
+Frances,baguette,4
+Barbara,eclair,3
+Grace,box of eclairs,3
+Ada,box of eclairs,6
+Barbara,croissant,2
+Tim,box of eclairs,2
+Frances,box of eclairs,5
+Linus,croissant,1
+Alan,croissant,2
+Linus,box of eclairs,l2
+Frances,eclair,2
+Frances,eclair,6
+Barbara,box of eclairs,1
+Radia,box of eclairs,1
+Margaret,croissant,1
+Alan,baguette,3
+Barbara,baguette,4
+Radia,croissant,4
+Ada,box of eclairs,3
+Tim,baguette,1
+Margaret,box of eclairs,5
+Margaret,box of eclairs,1
+Linus,box of eclairs,6
+Radia,baguette,6
+Radia,baguette,6
+Grace,eclair,6
+Ken,baguette,2
+Ada,box of eclairs,1
+Barbara,croissant,2
+Alan,eclair,2
+Radia,croissant,4
+Barbara,box of eclairs,4
+Barbara,baguette,5
+Ada,box of eclairs,2
+Barbara,croissant,5
+Grace,box of eclairs,5
+Margaret,eclair,6
+Grace,eclair,1
+Barbara,croissant,2
+Linus,croissant,3
+Frances,box of eclairs,5
+Linus,baguette,3
+Barbara,croissant,1
+Margaret,baguette,4
+Grace,baguette,6
+Ken,eclair,2
+Grace,eclair,4
+Radia,box of eclairs,1
+Grace,box of eclairs,3
+Alan,croissant,1
+Frances,eclair,3
+Grace,baguette,5
+Margaret,baguette,3
+Radia,eclair,1
+Grace,eclair,4
+Grace,box of eclairs,2
+Ada,croissant,5
+Alan,eclair,3
+Ken,croissant,4
+Ken,croissant,5
+Margaret,box of eclairs,4
+Frances,eclair,6
+Margaret,box of eclairs,4
+Ada,eclair,1
+Alan,eclair,4
+Frances,eclair,4
+Ada,box of eclairs,3
+Ada,eclair,6
+Radia,box of eclairs,5
+Alan,croissant,1
+Alan,eclair,1
+Grace,baguette,2
+Radia,croissant,1
+Ada,eclair,6
+Radia,baguette,1
+Ken,croissant,1
+Tim,box of eclairs,4
+Barbara,box of eclairs,1
+Tim,box of eclairs,3
+Linus,eclair,6
+Tim,croissant,4
+Tim,croissant,5
+Radia,baguette,5
+Ada,baguette,4
+Alan,baguette,5
+Grace,eclair,4
+Ada,eclair,4
+Ken,eclair,2
+Ken,box of eclairs,1
+Ada,croissant,6
+Radia,box of eclairs,1
+Barbara,baguette,2
+Frances,box of eclairs,1
+Grace,box of eclairs,4
+Alan,croissant,2
+Barbara,box of eclairs,2
+Tim,box of eclairs,4
+Ken,baguette,5
+Alan,croissant,5
+Tim,baguette,6
+Margaret,baguette,6
+Radia,eclair,4
+Alan,eclair,6
+Ada,baguette,6
+Margaret,croissant,1
+Margaret,croissant,6
+Grace,croissant,2
+Tim,croissant,3
+Alan,box of eclairs,4
+Barbara,eclair,2
+Frances,eclair,5
+Linus,baguette,6
+Margaret,baguette,3
+Grace,croissant,2
+Ken,eclair,6
+Grace,croissant,5
+Ken,croissant,1
+Radia,croissant,5
+Radia,baguette,5
+Barbara,box of eclairs,6
+Ada,croissant,3
+Ken,box of eclairs,4
+Linus,box of eclairs,2
+Tim,croissant,4
+Ada,box of eclairs,2
+Margaret,baguette,2
+Ken,baguette,2
+Ada,baguette,6
+Alan,baguette,6
+Grace,eclair,3
+Grace,eclair,6
+Ada,croissant,6
+Radia,box of eclairs,6
+Radia,box of eclairs,1
+Frances,baguette,1
+Barbara,eclair,5
+Ada,eclair,1
+Radia,box of eclairs,5
+Margaret,croissant,5
+Margaret,box of eclairs,5
+Ken,croissant,6
+Barbara,eclair,5
+Frances,box of eclairs,1
+Alan,croissant,3
+Grace,eclair,6
+Ken,croissant,6
+Frances,box of eclairs,1
+Ada,eclair,3
+Margaret,eclair,5
+Barbara,croissant,2
+Alan,box of eclairs,5
+Alan,eclair,6
+Tim,eclair,4
+Tim,eclair,6
+Ken,eclair,1
+Frances,baguette,3
+Ken,croissant,3
+Linus,baguette,3
+Grace,baguette,6
+Grace,box of eclairs,5
+Radia,baguette,5
+Barbara,eclair,4
+Radia,box of eclairs,1
+Ada,eclair,1
+Margaret,baguette,1
+Radia,box of eclairs,3
+Tim,baguette,3
+Alan,eclair,6
+Frances,croissant,1
+Grace,baguette,4
+Tim,croissant,2
+Ada,box of eclairs,2
+Radia,croissant,4
+Alan,croissant,4
+Tim,croissant,6
+Grace,eclair,4
+Linus,box of eclairs,6
+Frances,baguette,3
+Tim,eclair,4
+Alan,eclair,3
+Ken,eclair,1
+Margaret,croissant,2
+Grace,box of eclairs,1
+Radia,baguette,1
+Frances,eclair,1
+Ken,eclair,5
+Margaret,croissant,3
+Ada,baguette,2
+Linus,box of eclairs,1
+Ken,box of eclairs,5
+Tim,eclair,3
+Margaret,box of eclairs,3
+Radia,croissant,1
+Frances,croissant,3
+Linus,baguette,2
+Margaret,baguette,3
+Linus,box of eclairs,3
+Margaret,box of eclairs,1
+Barbara,baguette,1
+Linus,eclair,1
+Ada,croissant,6
+Grace,eclair,3
+Margaret,box of eclairs,1
+Frances,baguette,2
+Barbara,eclair,1
+Linus,box of eclairs,1
+Alan,box of eclairs,1
+Margaret,box of eclairs,1
+Ada,box of eclairs,3
+Margaret,box of eclairs,5
+Radia,baguette,2
+Grace,box of eclairs,2
+Margaret,croissant,3
+Barbara,box of eclairs,5
+Tim,croissant,1
+Radia,box of eclairs,1
+Linus,croissant,2
+Radia,baguette,6
+Margaret,baguette,1
+Grace,eclair,4
+Radia,box of eclairs,5
+Ada,baguette,1
+Linus,croissant,3
+Alan,baguette,5
+Alan,box of eclairs,5
+Ken,box of eclairs,2
+Ada,baguette,5
+Radia,baguette,6
+Margaret,eclair,4
+Margaret,croissant,3
+Radia,box of eclairs,4
+Linus,eclair,4
+Ken,eclair,3
+Alan,eclair,2
+Tim,croissant,5
+Frances,baguette,6
+Frances,croissant,5
+Radia,croissant,3
+Radia,baguette,4
+Grace,box of eclairs,6
+Tim,box of eclairs,4
+Grace,box of eclairs,1
+Radia,croissant,2
+Grace,croissant,2
+Ken,croissant,6
+Grace,croissant,2
+Grace,box of eclairs,5
+Linus,eclair,5
+Frances,croissant,5
+Margaret,eclair,1
+Grace,baguette,4
+Grace,eclair,5
+Ada,baguette,2
+Barbara,box of eclairs,5
+Margaret,box of eclairs,5
+Margaret,croissant,2
+Ada,croissant,4
+Linus,croissant,4
+Frances,eclair,3
+Linus,baguette,2
+Tim,eclair,6
+Frances,eclair,6
+Margaret,eclair,3
+Margaret,eclair,6
+Tim,croissant,2
+Ada,eclair,3
+Grace,croissant,6
+Frances,baguette,5
+Grace,croissant,2
+Linus,box of eclairs,2
+Margaret,eclair,3
+Linus,baguette,1
+Margaret,eclair,5
+Ken,eclair,1
+Ken,baguette,2
+Margaret,croissant,6
+Barbara,croissant,2
+Linus,eclair,4
+Frances,croissant,5
+Linus,baguette,6
+Grace,box of eclairs,3
+Grace,eclair,3
+Frances,box of eclairs,1
+Radia,box of eclairs,5
+Frances,croissant,2
+Margaret,eclair,6
+Ada,baguette,2
+Grace,baguette,6
+Linus,box of eclairs,5
+Frances,baguette,4
+Tim,box of eclairs,3
+Tim,baguette,5
+Grace,eclair,3
+Alan,baguette,5
+Alan,eclair,3
+Radia,baguette,4
+Linus,box of eclairs,3
+Barbara,baguette,5
+Radia,croissant,4
+Ada,eclair,1
+Frances,baguette,5
+Radia,eclair,4
+Tim,eclair,6
+Tim,croissant,1
+Radia,box of eclairs,4
+Linus,box of eclairs,6
+Frances,eclair,5
+Linus,croissant,3
+Linus,baguette,2
+Frances,baguette,2
+Grace,box of eclairs,3
+Tim,baguette,1
+Grace,box of eclairs,4
+Barbara,eclair,2
+Alan,croissant,4
+Tim,box of eclairs,5
+Ada,box of eclairs,5
+Margaret,eclair,3
+Tim,croissant,3
+Margaret,box of eclairs,6
+Alan,box of eclairs,3
+Radia,baguette,2
+Radia,baguette,2
+Barbara,eclair,4
+Frances,box of eclairs,4
+Linus,baguette,6
+Tim,eclair,5
+Alan,box of eclairs,3
+Ken,box of eclairs,6
+Alan,eclair,6
+Radia,box of eclairs,4
+Ken,baguette,4
+Tim,box of eclairs,5
+Margaret,baguette,5
+Margaret,croissant,6
+Grace,croissant,3
+Ada,eclair,5
+Linus,box of eclairs,1
+Radia,croissant,1
+Barbara,croissant,2
+Ada,box of eclairs,6
+Radia,box of eclairs,3
+Margaret,croissant,5
+Frances,baguette,1
+Barbara,eclair,4
+Grace,box of eclairs,4
+Radia,baguette,4
+Linus,box of eclairs,2
+Alan,baguette,4
+Ada,croissant,5
+Margaret,croissant,5
+Barbara,box of eclairs,2
+Grace,baguette,6
+Frances,eclair,1
+Barbara,baguette,1
+Radia,baguette,4
+Linus,eclair,5
+Grace,croissant,1
+Grace,croissant,1
+Ada,baguette,5
+Frances,box of eclairs,3
+Linus,box of eclairs,3
+Tim,baguette,6
+Tim,baguette,4
+Ken,baguette,6
+Grace,baguette,1
+Tim,baguette,1
+Frances,eclair,2
+Ada,eclair,3
+Radia,eclair,4
+Radia,box of eclairs,1
+Grace,box of eclairs,3
+Barbara,box of eclairs,6
+Grace,eclair,3
+Margaret,eclair,4
+Radia,eclair,1
+Linus,box of eclairs,5
+Frances,eclair,6
+Ada,baguette,4
+Frances,box of eclairs,3
+Tim,box of eclairs,6
+Barbara,croissant,5
+Radia,eclair,4
+Ken,box of eclairs,3
+Barbara,baguette,1
+Grace,box of eclairs,5
+Linus,croissant,2
+Tim,eclair,2
+Ada,box of eclairs,3
+Linus,croissant,6
+Radia,croissant,5
+Margaret,croissant,4
+Margaret,box of eclairs,5
+Ada,baguette,5
+Tim,baguette,5
+Grace,baguette,2
+Tim,box of eclairs,3
+Ken,box of eclairs,4
+Radia,eclair,4
+Grace,baguette,2
+Grace,croissant,5
+Alan,baguette,6
+Frances,baguette,6
+Ken,eclair,5
+Margaret,baguette,4
+Ada,baguette,3
+Radia,eclair,3
+Radia,croissant,5
+Frances,croissant,4
+Frances,box of eclairs,5
+Radia,eclair,4
+Margaret,eclair,3
+Margaret,box of eclairs,4
+Alan,croissant,3
+Radia,baguette,3
+Grace,eclair,1
+Linus,croissant,1
+Barbara,baguette,3
+Grace,box of eclairs,5
+Radia,eclair,2
+Alan,baguette,6
+Alan,croissant,4
+Frances,box of eclairs,5
+Ken,croissant,4
+Frances,baguette,5
+Alan,croissant,5
+Barbara,box of eclairs,5
+Barbara,box of eclairs,1
+Margaret,baguette,2
+Tim,eclair,5
+Frances,box of eclairs,3
+Radia,croissant,2
+Tim,box of eclairs,3
+Alan,baguette,2
+Ken,croissant,1
+Tim,box of eclairs,6
+Ken,baguette,6
+Barbara,eclair,5
+Barbara,baguette,3
+Ken,box of eclairs,2
+Grace,croissant,2
+Alan,box of eclairs,2
+Ken,baguette,3
+Alan,eclair,3
+Linus,baguette,2
+Grace,eclair,4
+Alan,baguette,3
+Margaret,croissant,4
+Radia,eclair,6
+Radia,box of eclairs,4
+Frances,box of eclairs,2
+Ada,eclair,1
+Barbara,box of eclairs,5
+Barbara,croissant,5
+Grace,box of eclairs,4
+Radia,croissant,1
+Grace,baguette,6
+Barbara,baguette,6
+Frances,baguette,6
+Frances,box of eclairs,4
+Alan,eclair,2
+Barbara,eclair,3
+Ada,croissant,2
+Radia,croissant,3
+Ada,baguette,5
+Alan,baguette,4
+Ken,eclair,2
+Grace,eclair,6
+Tim,baguette,1
+Grace,box of eclairs,6
+Tim,baguette,1
+Radia,baguette,6
+Ken,eclair,3
+Alan,croissant,3
+Ada,box of eclairs,6
+Grace,box of eclairs,2
+Tim,baguette,5
+Grace,box of eclairs,6
+Ken,baguette,3
+Alan,baguette,6
+Grace,baguette,4
+Radia,box of eclairs,6
+Tim,croissant,6
+Alan,croissant,1
+Radia,eclair,4
+Margaret,eclair,3
+Alan,eclair,5
+Radia,croissant,4
+Ada,croissant,3
+Alan,croissant,4
+Grace,box of eclairs,5
+Ken,croissant,5
+Barbara,box of eclairs,6
+Margaret,box of eclairs,6
+Ken,baguette,4
+Ada,baguette,5
+Frances,baguette,6
+Frances,eclair,4
+Tim,box of eclairs,6
+Ken,box of eclairs,4
+Radia,baguette,1
+Tim,baguette,3
+Tim,box of eclairs,1
+Ada,box of eclairs,1
+Tim,croissant,3
+Linus,eclair,4
+Radia,croissant,2
+Ken,baguette,5
+Grace,baguette,4
+Linus,box of eclairs,5
+Linus,box of eclairs,2
+Radia,baguette,3
+Barbara,croissant,2
+Ada,baguette,6
+Ken,box of eclairs,3
+Grace,box of eclairs,2
+Alan,croissant,6
+Grace,croissant,3
+Linus,eclair,1
+Ada,baguette,2
+Grace,eclair,6
+Frances,croissant,6
+Ada,box of eclairs,6
+Grace,baguette,4
+Grace,box of eclairs,3
+Margaret,box of eclairs,6
+Ada,baguette,4
+Ada,baguette,3
+Margaret,box of eclairs,4
+Linus,croissant,3
+Grace,eclair,4
+Frances,croissant,1
+Frances,box of eclairs,5
+Radia,croissant,5
+Ken,box of eclairs,4
+Barbara,box of eclairs,2
+Alan,box of eclairs,2
+Barbara,croissant,4
+Frances,box of eclairs,3
+Tim,baguette,5
+Radia,baguette,2
+Barbara,eclair,3
+Grace,eclair,5
+Linus,croissant,1
+Alan,box of eclairs,6
+Alan,box of eclairs,1
+Ada,eclair,2
+Ken,croissant,4
+Ada,croissant,2
+Tim,box of eclairs,4
+Grace,eclair,5
+Margaret,baguette,2
+Radia,eclair,5
+Radia,eclair,3
+Frances,box of eclairs,2
+Barbara,baguette,3
+Tim,box of eclairs,5
+Tim,eclair,6
+Barbara,croissant,3
+Barbara,baguette,3
+Linus,croissant,2
+Ken,box of eclairs,6
+Barbara,eclair,3
+Margaret,croissant,1
+Barbara,eclair,4
+Ada,box of eclairs,5
+Ken,baguette,3
+Grace,eclair,4
+Ada,eclair,4
+Barbara,croissant,1
+Frances,croissant,6
+Grace,croissant,6
+Linus,eclair,4
+Alan,croissant,1
+Grace,baguette,5
+Radia,baguette,6
+Linus,croissant,5
+Ken,box of eclairs,4
+Frances,croissant,3
+Grace,croissant,4
+Grace,box of eclairs,1
+Margaret,baguette,4
+Frances,baguette,5
+Linus,eclair,4
+Tim,eclair,2
+Frances,box of eclairs,1
+Grace,croissant,6
+Barbara,croissant,4
+Frances,box of eclairs,5
+Ken,box of eclairs,2
+Ada,eclair,2
+Barbara,baguette,1
+Tim,baguette,4
+Frances,eclair,4
+Ada,box of eclairs,4
+Radia,baguette,5
+Ken,eclair,2
+Ada,croissant,6
+Ken,baguette,6
+Ken,croissant,6
+Radia,baguette,6
+Linus,box of eclairs,5
+Tim,eclair,2
+Linus,baguette,6
+Frances,baguette,1
+Frances,croissant,2
+Linus,eclair,5
+Margaret,eclair,6
+Frances,eclair,6
+Margaret,box of eclairs,5
+Radia,croissant,2
+Ada,eclair,3
+Radia,croissant,5
+Linus,eclair,6
+Radia,croissant,2
+Ken,box of eclairs,4
+Linus,eclair,3
+Margaret,box of eclairs,1
+Ada,box of eclairs,1
+Radia,eclair,5
+Radia,baguette,2
+Radia,eclair,4
+Grace,eclair,3
+Linus,eclair,2
+Ken,box of eclairs,2
+Alan,croissant,1
+Radia,box of eclairs,3
+Frances,croissant,1
+Barbara,box of eclairs,6
+Ada,box of eclairs,6
+Tim,box of eclairs,5
+Barbara,eclair,5
+Margaret,croissant,2
+Frances,eclair,5
+Barbara,box of eclairs,2
+Barbara,baguette,1
+Frances,box of eclairs,2
+Radia,eclair,4
+Ken,eclair,1
+Tim,box of eclairs,1
+Frances,baguette,5
+Tim,eclair,5
+Ken,eclair,6
+Radia,croissant,6
+Ada,baguette,2
+Frances,baguette,4
+Radia,baguette,5
+Margaret,croissant,6
+Ada,eclair,1
+Frances,croissant,2
+Alan,eclair,4
+Linus,baguette,3
+Grace,eclair,5
+Alan,eclair,6
+Grace,baguette,3
+Alan,eclair,3
+Linus,croissant,3
+Ken,box of eclairs,1
+Grace,croissant,2
+Barbara,croissant,3
+Grace,croissant,5
+Tim,eclair,6
+Radia,croissant,2
+Grace,baguette,5
+Margaret,box of eclairs,5
+Margaret,eclair,1
+Tim,croissant,6
+Margaret,croissant,5
+Barbara,croissant,5
+Ada,eclair,1
+Ken,eclair,2
+Linus,croissant,5
+Grace,baguette,1
+Frances,eclair,5
