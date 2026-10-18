@@ -1,0 +1,363 @@
+@import 'tailwindcss';
+
+/* Debug like a detective: warm paper, ink, one violet for "clue", frosted glass. */
+:root {
+  --canvas: #fbf8f1;
+  --surface: #ffffff;
+  --surface-2: #f3efe6;
+  --ink: #141412;
+  --ink-2: #34322d;
+  --muted: #6b675f;
+  --hairline: rgb(20 20 18 / 0.07);
+  --hairline-strong: rgb(20 20 18 / 0.12);
+  --accent: #8b5cf6;
+  --accent-text: #6d28d9;
+  --accent-wash: #f1ebff;
+  --bug: #e11d48;
+  --bug-text: #be123c;
+  --bug-wash: #fff0f3;
+  --ok-text: #15803d;
+  --glass-fill: rgb(255 255 255 / 0.58);
+  --glass-fill-strong: rgb(255 255 255 / 0.86);
+  --glass-edge: rgb(255 255 255 / 0.85);
+  --glass-line: rgb(20 20 18 / 0.05);
+  --shadow-soft: 0 1px 1px rgb(20 20 18 / 0.02), 0 6px 20px rgb(20 20 18 / 0.04);
+  --shadow-lift: 0 1px 2px rgb(20 20 18 / 0.03), 0 24px 64px rgb(20 20 18 / 0.08);
+  --code-bg: #1c1b18;
+  --code-ink: #f5f2ea;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-canvas: var(--canvas);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-muted: var(--muted);
+  --color-hairline: var(--hairline);
+  --color-accent: var(--accent);
+  --color-accent-text: var(--accent-text);
+  --color-accent-wash: var(--accent-wash);
+  --color-bug: var(--bug);
+  --color-bug-text: var(--bug-text);
+  --color-bug-wash: var(--bug-wash);
+  --color-ok-text: var(--ok-text);
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+  --font-display: var(--font-instrument-serif), ui-serif, Georgia, serif;
+  --radius-card: 1.25rem;
+  --radius-panel: 1.75rem;
+}
+
+body {
+  background: var(--canvas);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  letter-spacing: -0.006em;
+}
+
+/* Soft coloured light behind the glass, so the material has something to blur. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(44% 50% at 10% 4%, rgb(221 204 255 / 0.6), transparent 70%),
+    radial-gradient(40% 46% at 92% 0%, rgb(255 214 196 / 0.55), transparent 70%),
+    radial-gradient(36% 40% at 84% 70%, rgb(204 240 226 / 0.45), transparent 70%),
+    radial-gradient(34% 38% at 10% 92%, rgb(255 226 234 / 0.45), transparent 70%);
+}
+
+::selection {
+  background: var(--accent-wash);
+  color: var(--ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 0.5rem;
+}
+
+.glass,
+.glass-strong {
+  background: var(--glass-fill);
+  -webkit-backdrop-filter: blur(24px) saturate(170%);
+  backdrop-filter: blur(24px) saturate(170%);
+  box-shadow:
+    inset 0 1px 0 var(--glass-edge),
+    0 0 0 1px var(--glass-line),
+    var(--shadow-soft);
+}
+
+.glass-strong {
+  background: var(--glass-fill-strong);
+}
+
+@media (prefers-reduced-transparency: reduce) {
+  .glass,
+  .glass-strong {
+    background: var(--surface);
+    backdrop-filter: none;
+  }
+}
+
+.text-gradient {
+  background: linear-gradient(100deg, #6d28d9 0%, #a21caf 55%, #be123c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  padding-right: 0.08em;
+}
+
+.code {
+  background: var(--code-bg);
+  color: var(--code-ink);
+  font-family: var(--font-mono);
+}
+
+/* Motion: things rise in, cards lift on hover, Clue bobs and blinks. */
+.rise {
+  animation: rise 700ms var(--ease-out) both;
+  animation-delay: var(--delay, 0ms);
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+    filter: blur(4px);
+  }
+}
+
+.lift {
+  transition:
+    transform 400ms var(--ease-out),
+    box-shadow 400ms var(--ease-out);
+}
+
+@media (hover: hover) {
+  .lift:hover {
+    transform: translateY(-6px) rotate(-0.6deg);
+    box-shadow:
+      inset 0 1px 0 var(--glass-edge),
+      0 0 0 1px var(--glass-line),
+      var(--shadow-lift);
+  }
+}
+
+.idle-bob {
+  animation: idle-bob 3.2s ease-in-out infinite;
+  transform-origin: 50% 100%;
+}
+
+@keyframes idle-bob {
+  50% {
+    transform: translateY(-6px) rotate(-1.5deg);
+  }
+}
+
+.blink {
+  animation: blink 5s infinite;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+@keyframes blink {
+  0%,
+  92%,
+  100% {
+    transform: scaleY(1);
+  }
+  95% {
+    transform: scaleY(0.1);
+  }
+}
+
+.sweep {
+  animation: sweep 6s ease-in-out infinite;
+  transform-box: fill-box;
+  transform-origin: 20% 80%;
+}
+
+@keyframes sweep {
+  50% {
+    transform: rotate(-10deg) translate(-4px, 2px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rise,
+  .idle-bob,
+  .blink,
+  .sweep {
+    animation: none;
+  }
+  .lift {
+    transition: none;
+  }
+}
+
+/* Chapter prose. */
+.prose-workshop {
+  font-size: 16.5px;
+  line-height: 1.75;
+  color: var(--ink-2);
+}
+
+.prose-workshop h2 {
+  scroll-margin-top: 6rem;
+  margin: 2.75rem 0 0.75rem;
+  font-family: var(--font-display);
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+}
+
+.prose-workshop h2 .anchor {
+  margin-left: 0.4rem;
+  color: var(--muted);
+  font-family: var(--font-sans);
+  font-size: 1.1rem;
+  opacity: 0;
+  text-decoration: none;
+}
+
+.prose-workshop h2:hover .anchor,
+.prose-workshop h2 .anchor:focus-visible {
+  opacity: 1;
+}
+
+.prose-workshop h3 {
+  margin: 1.75rem 0 0.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.prose-workshop p,
+.prose-workshop ul,
+.prose-workshop ol {
+  margin: 0.75rem 0;
+}
+
+.prose-workshop ul {
+  list-style: disc;
+  padding-left: 1.4rem;
+}
+
+.prose-workshop ol {
+  list-style: decimal;
+  padding-left: 1.4rem;
+}
+
+.prose-workshop li::marker {
+  color: var(--accent);
+}
+
+.prose-workshop a {
+  color: var(--accent-text);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.prose-workshop strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.prose-workshop :not(pre) > code {
+  padding: 0.1rem 0.35rem;
+  border-radius: 0.4rem;
+  background: var(--surface-2);
+  font-family: var(--font-mono);
+  font-size: 0.86em;
+  color: var(--ink);
+}
+
+.prose-workshop .code-block {
+  margin: 1.25rem 0;
+  overflow: hidden;
+  border-radius: 1rem;
+  background: var(--code-bg);
+  box-shadow: var(--shadow-soft);
+}
+
+.prose-workshop .code-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.45rem 0.6rem 0.45rem 1rem;
+  border-bottom: 1px solid rgb(245 242 234 / 0.08);
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: #a8a398;
+}
+
+.prose-workshop .code-block pre {
+  margin: 0;
+  overflow-x: auto;
+  padding: 0.9rem 1.1rem 1.1rem;
+  color: var(--code-ink);
+  font-family: var(--font-mono);
+  font-size: 13.5px;
+  line-height: 1.6;
+}
+
+.prose-workshop .code-block.is-output pre {
+  color: #cfc9bc;
+}
+
+.prose-workshop .table-wrap {
+  margin: 1.25rem 0;
+  overflow-x: auto;
+  border-radius: 1rem;
+  background: var(--glass-fill-strong);
+  box-shadow:
+    0 0 0 1px var(--glass-line),
+    var(--shadow-soft);
+}
+
+.prose-workshop table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+.prose-workshop th,
+.prose-workshop td {
+  padding: 0.6rem 0.9rem;
+  border-bottom: 1px solid var(--hairline);
+  text-align: left;
+  vertical-align: top;
+}
+
+.prose-workshop th {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.prose-workshop tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+@media (max-width: 480px) {
+  .prose-workshop .code-block pre {
+    font-size: 12px;
+  }
+}
+
+code,
+pre,
+.code {
+  font-variant-ligatures: none;
+  font-feature-settings:
+    'liga' 0,
+    'calt' 0;
+}
